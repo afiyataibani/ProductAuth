@@ -1,0 +1,1 @@
+s.static(path.join(__dirname + '/uploads')));
